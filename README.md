@@ -2,7 +2,7 @@
 ICIP2018 paper [link](https://ieeexplore.ieee.org/document/8451415 "ICIP2018: Multi-Label Classification Scheme Based on Local Regression for Retinal Vessel Segmentation")
 
 ### config
-1. Set keras to channel_first mode. location: ./keras
+1. set keras to channel_first mode. location: ./keras
 2. using Tensorflow as backend
 3. install keras-gpu, python2.7 by conda
 4. more information about installation of keras-gpu, go to official tutorial.
